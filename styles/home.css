@@ -1,0 +1,89 @@
+body{
+    background-color: #EBEAE8;
+}
+
+header{
+    background-color: #464F5E;
+    height: 25px;
+    width: 100%;
+    
+}
+
+footer {
+    background-color: #464F5E ;
+    position: inherit;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    color: white;
+}
+
+#linhaPesquisa{
+    text-align: center;
+    width: 100%;
+    background-color: #464F5E;
+    margin: auto;
+    
+}
+
+#botao1{
+    background-color:#69717C ;
+    border-color: #464F5E;
+}
+
+#cardHome{
+    background-color: #D7D6D4;
+}
+
+#selecaoQtdHome{
+    text-align: center;
+}
+
+#colunaImagem{
+    text-align: right;
+}
+
+#colunaDados{
+    text-align: left;
+    vertical-align: center;
+}
+
+#selecaoQtdCarrinho{
+    margin-top: 30px;
+    width: 200px;
+
+}
+
+
+#linhaProdutosPagina:nth-child(odd){
+    width: 100%;
+    margin: 0%;
+    vertical-align: center;
+    background-color: #D7D6D4;
+}
+
+#linhaProdutosPagina:nth-child(even){
+    width: 100%;
+    margin: 0%;
+    vertical-align: center;
+    background-color: #CAC3B9;
+}
+
+
+#imgCalcaLista{
+    width: 100px;
+    height: 100px;
+}
+
+#imagemHome{
+    scale: 0.6;
+}
+
+#pageCarrinho{
+    text-align: center;
+}
+
+
